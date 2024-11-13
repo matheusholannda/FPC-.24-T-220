@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matheus.holanda\\Desktop\\Exercicios\\BibliotecaDigital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82AE6A40-DF2A-45D1-8C34-23D76A8E1D5D}|BibliotecaDigital\\BibliotecaDigital.csproj|c:\\users\\matheus.holanda\\desktop\\exercicios\\bibliotecadigital\\bibliotecadigital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AE6A40-DF2A-45D1-8C34-23D76A8E1D5D}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AE6A40-DF2A-45D1-8C34-23D76A8E1D5D}|BibliotecaDigital\\BibliotecaDigital.csproj|c:\\users\\matheus.holanda\\desktop\\exercicios\\bibliotecadigital\\bibliotecadigital\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AE6A40-DF2A-45D1-8C34-23D76A8E1D5D}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AE6A40-DF2A-45D1-8C34-23D76A8E1D5D}|BibliotecaDigital\\BibliotecaDigital.csproj|c:\\users\\matheus.holanda\\desktop\\exercicios\\bibliotecadigital\\bibliotecadigital\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AE6A40-DF2A-45D1-8C34-23D76A8E1D5D}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AE6A40-DF2A-45D1-8C34-23D76A8E1D5D}|BibliotecaDigital\\BibliotecaDigital.csproj|c:\\users\\matheus.holanda\\desktop\\exercicios\\bibliotecadigital\\bibliotecadigital\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AE6A40-DF2A-45D1-8C34-23D76A8E1D5D}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AE6A40-DF2A-45D1-8C34-23D76A8E1D5D}|BibliotecaDigital\\BibliotecaDigital.csproj|c:\\users\\matheus.holanda\\desktop\\exercicios\\bibliotecadigital\\bibliotecadigital\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AE6A40-DF2A-45D1-8C34-23D76A8E1D5D}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AE6A40-DF2A-45D1-8C34-23D76A8E1D5D}|BibliotecaDigital\\BibliotecaDigital.csproj|c:\\users\\matheus.holanda\\desktop\\exercicios\\bibliotecadigital\\bibliotecadigital\\models\\usuarioregular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AE6A40-DF2A-45D1-8C34-23D76A8E1D5D}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\models\\usuarioregular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AE6A40-DF2A-45D1-8C34-23D76A8E1D5D}|BibliotecaDigital\\BibliotecaDigital.csproj|c:\\users\\matheus.holanda\\desktop\\exercicios\\bibliotecadigital\\bibliotecadigital\\models\\usuariopremium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AE6A40-DF2A-45D1-8C34-23D76A8E1D5D}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\models\\usuariopremium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AE6A40-DF2A-45D1-8C34-23D76A8E1D5D}|BibliotecaDigital\\BibliotecaDigital.csproj|c:\\users\\matheus.holanda\\desktop\\exercicios\\bibliotecadigital\\bibliotecadigital\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AE6A40-DF2A-45D1-8C34-23D76A8E1D5D}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AE6A40-DF2A-45D1-8C34-23D76A8E1D5D}|BibliotecaDigital\\BibliotecaDigital.csproj|c:\\users\\matheus.holanda\\desktop\\exercicios\\bibliotecadigital\\bibliotecadigital\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AE6A40-DF2A-45D1-8C34-23D76A8E1D5D}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AE6A40-DF2A-45D1-8C34-23D76A8E1D5D}|BibliotecaDigital\\BibliotecaDigital.csproj|c:\\users\\matheus.holanda\\desktop\\exercicios\\bibliotecadigital\\bibliotecadigital\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AE6A40-DF2A-45D1-8C34-23D76A8E1D5D}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BibliotecaContext.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.holanda\\Desktop\\Exercicios\\BibliotecaDigital\\BibliotecaDigital\\BibliotecaContext.cs",
+              "RelativeDocumentMoniker": "BibliotecaDigital\\BibliotecaContext.cs",
+              "ToolTip": "C:\\Users\\matheus.holanda\\Desktop\\Exercicios\\BibliotecaDigital\\BibliotecaDigital\\BibliotecaContext.cs",
+              "RelativeToolTip": "BibliotecaDigital\\BibliotecaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:04:42.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmprestimoController.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.holanda\\Desktop\\Exercicios\\BibliotecaDigital\\BibliotecaDigital\\Controllers\\EmprestimoController.cs",
+              "RelativeDocumentMoniker": "BibliotecaDigital\\Controllers\\EmprestimoController.cs",
+              "ToolTip": "C:\\Users\\matheus.holanda\\Desktop\\Exercicios\\BibliotecaDigital\\BibliotecaDigital\\Controllers\\EmprestimoController.cs",
+              "RelativeToolTip": "BibliotecaDigital\\Controllers\\EmprestimoController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA6wDwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:02:36.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioRegular.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.holanda\\Desktop\\Exercicios\\BibliotecaDigital\\BibliotecaDigital\\Models\\UsuarioRegular.cs",
+              "RelativeDocumentMoniker": "BibliotecaDigital\\Models\\UsuarioRegular.cs",
+              "ToolTip": "C:\\Users\\matheus.holanda\\Desktop\\Exercicios\\BibliotecaDigital\\BibliotecaDigital\\Models\\UsuarioRegular.cs",
+              "RelativeToolTip": "BibliotecaDigital\\Models\\UsuarioRegular.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:02:16.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioPremium.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.holanda\\Desktop\\Exercicios\\BibliotecaDigital\\BibliotecaDigital\\Models\\UsuarioPremium.cs",
+              "RelativeDocumentMoniker": "BibliotecaDigital\\Models\\UsuarioPremium.cs",
+              "ToolTip": "C:\\Users\\matheus.holanda\\Desktop\\Exercicios\\BibliotecaDigital\\BibliotecaDigital\\Models\\UsuarioPremium.cs",
+              "RelativeToolTip": "BibliotecaDigital\\Models\\UsuarioPremium.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:01:53.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.holanda\\Desktop\\Exercicios\\BibliotecaDigital\\BibliotecaDigital\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "BibliotecaDigital\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\matheus.holanda\\Desktop\\Exercicios\\BibliotecaDigital\\BibliotecaDigital\\Models\\Usuario.cs",
+              "RelativeToolTip": "BibliotecaDigital\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:01:27.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Emprestimo.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.holanda\\Desktop\\Exercicios\\BibliotecaDigital\\BibliotecaDigital\\Models\\Emprestimo.cs",
+              "RelativeDocumentMoniker": "BibliotecaDigital\\Models\\Emprestimo.cs",
+              "ToolTip": "C:\\Users\\matheus.holanda\\Desktop\\Exercicios\\BibliotecaDigital\\BibliotecaDigital\\Models\\Emprestimo.cs",
+              "RelativeToolTip": "BibliotecaDigital\\Models\\Emprestimo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:00:19.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.holanda\\Desktop\\Exercicios\\BibliotecaDigital\\BibliotecaDigital\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "BibliotecaDigital\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\matheus.holanda\\Desktop\\Exercicios\\BibliotecaDigital\\BibliotecaDigital\\Models\\Livro.cs",
+              "RelativeToolTip": "BibliotecaDigital\\Models\\Livro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:46:41.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.holanda\\Desktop\\Exercicios\\BibliotecaDigital\\BibliotecaDigital\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "BibliotecaDigital\\Controllers\\LivroController.cs",
+              "ToolTip": "C:\\Users\\matheus.holanda\\Desktop\\Exercicios\\BibliotecaDigital\\BibliotecaDigital\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "BibliotecaDigital\\Controllers\\LivroController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA6wC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:41:36.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.holanda\\Desktop\\Exercicios\\BibliotecaDigital\\BibliotecaDigital\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "BibliotecaDigital\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\matheus.holanda\\Desktop\\Exercicios\\BibliotecaDigital\\BibliotecaDigital\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "BibliotecaDigital\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA6wCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:41:23.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.holanda\\Desktop\\Exercicios\\BibliotecaDigital\\BibliotecaDigital\\Program.cs",
+              "RelativeDocumentMoniker": "BibliotecaDigital\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.holanda\\Desktop\\Exercicios\\BibliotecaDigital\\BibliotecaDigital\\Program.cs",
+              "RelativeToolTip": "BibliotecaDigital\\Program.cs",
+              "ViewState": "AQIAANgAAAAAAAAAAAA6wO0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:50:26.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

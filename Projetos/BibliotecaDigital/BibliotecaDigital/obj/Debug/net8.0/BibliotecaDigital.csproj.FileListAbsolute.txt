@@ -1,0 +1,14 @@
+C:\Users\matheus.holanda\Desktop\Exercicios\BibliotecaDigital\BibliotecaDigital\bin\Debug\net8.0\BibliotecaDigital.exe
+C:\Users\matheus.holanda\Desktop\Exercicios\BibliotecaDigital\BibliotecaDigital\bin\Debug\net8.0\BibliotecaDigital.deps.json
+C:\Users\matheus.holanda\Desktop\Exercicios\BibliotecaDigital\BibliotecaDigital\bin\Debug\net8.0\BibliotecaDigital.runtimeconfig.json
+C:\Users\matheus.holanda\Desktop\Exercicios\BibliotecaDigital\BibliotecaDigital\bin\Debug\net8.0\BibliotecaDigital.dll
+C:\Users\matheus.holanda\Desktop\Exercicios\BibliotecaDigital\BibliotecaDigital\bin\Debug\net8.0\BibliotecaDigital.pdb
+C:\Users\matheus.holanda\Desktop\Exercicios\BibliotecaDigital\BibliotecaDigital\obj\Debug\net8.0\BibliotecaDigital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.holanda\Desktop\Exercicios\BibliotecaDigital\BibliotecaDigital\obj\Debug\net8.0\BibliotecaDigital.AssemblyInfoInputs.cache
+C:\Users\matheus.holanda\Desktop\Exercicios\BibliotecaDigital\BibliotecaDigital\obj\Debug\net8.0\BibliotecaDigital.AssemblyInfo.cs
+C:\Users\matheus.holanda\Desktop\Exercicios\BibliotecaDigital\BibliotecaDigital\obj\Debug\net8.0\BibliotecaDigital.csproj.CoreCompileInputs.cache
+C:\Users\matheus.holanda\Desktop\Exercicios\BibliotecaDigital\BibliotecaDigital\obj\Debug\net8.0\BibliotecaDigital.dll
+C:\Users\matheus.holanda\Desktop\Exercicios\BibliotecaDigital\BibliotecaDigital\obj\Debug\net8.0\refint\BibliotecaDigital.dll
+C:\Users\matheus.holanda\Desktop\Exercicios\BibliotecaDigital\BibliotecaDigital\obj\Debug\net8.0\BibliotecaDigital.pdb
+C:\Users\matheus.holanda\Desktop\Exercicios\BibliotecaDigital\BibliotecaDigital\obj\Debug\net8.0\BibliotecaDigital.genruntimeconfig.cache
+C:\Users\matheus.holanda\Desktop\Exercicios\BibliotecaDigital\BibliotecaDigital\obj\Debug\net8.0\ref\BibliotecaDigital.dll
